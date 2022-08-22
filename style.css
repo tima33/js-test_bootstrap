@@ -1,0 +1,21 @@
+#navmenu{
+  border: rgb(0, 0, 0) 2px solid;
+  padding: 10px;
+}
+
+#content{
+  border: rgb(0, 0, 0) 2px solid;
+  padding: 10px;
+}
+
+.post{
+  margin-top: 15px;
+  height:275px;
+  border: rgb(0, 0, 0) 2px solid;
+  padding: 15px;
+  overflow: hidden;
+}
+
+.post img {
+  height:150px;
+}
